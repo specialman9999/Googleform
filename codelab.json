@@ -1,0 +1,21 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-01-14T10:27:09Z",
+  "id": "Googleform",
+  "duration": 0,
+  "title": "Googleフォームを作成",
+  "summary": "",
+  "source": "1KFkkRjJlTtwKNONpyp6Dg1wjEhHbUhmI4VtPjaxL2NQ",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [],
+  "url": "Googleform"
+}
